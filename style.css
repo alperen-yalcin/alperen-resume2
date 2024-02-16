@@ -1,0 +1,16 @@
+
+ul { 
+    color: blueviolet ;
+    list-style-position: inside ;
+}
+body { text-align: center ;
+}
+:any-link { color: brown ;
+    text-decoration: none ;
+}
+a {
+margin: 10px;
+font-size: 1.01em;
+}
+p { color: blueviolet ;
+}
